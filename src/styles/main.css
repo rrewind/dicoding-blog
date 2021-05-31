@@ -171,6 +171,7 @@ main {
     font-family: "Roboto", sans-serif;
     text-transform: uppercase;
     margin-top: 24px;
+    height: 44px;
     cursor: pointer;
     padding: 8px 16px;
     color: white;
